@@ -1,0 +1,3 @@
+class MyBool inherits boolean {
+
+}

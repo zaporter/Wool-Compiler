@@ -1,0 +1,3 @@
+class SymbolsAsIdentifiers {
+	***: boolean <- true;
+}

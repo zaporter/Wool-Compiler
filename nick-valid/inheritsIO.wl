@@ -1,0 +1,3 @@
+class CanDoIO inherits IO {
+
+}

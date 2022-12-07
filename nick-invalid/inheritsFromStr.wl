@@ -1,0 +1,3 @@
+class MyStr inherits Str {
+
+}

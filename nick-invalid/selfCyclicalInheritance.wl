@@ -1,0 +1,1 @@
+class Foo inherits Foo {}
